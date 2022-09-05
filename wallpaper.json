@@ -1,43 +1,67 @@
 [{
 	"name": "Wallpaper 1",
 	"author": "unknown",
-	"url": "https://www.gstatic.com/webp/gallery/4.webp",
-	"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp"
+	"url": "https://github.com/goxler7/neonWalls/raw/master/1.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/1.jpg"
 },
 {
-	"name": "Wallpaper 1",
+	"name": "Wallpaper 2",
 	"author": "unknown",
-	"url": "https://www.gstatic.com/webp/gallery/4.webp",
-	"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp"
+	"url": "https://github.com/goxler7/neonWalls/raw/master/2.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/2.jpg"
 },
 {
-	"name": "Wallpaper 1",
+	"name": "Wallpaper 3",
 	"author": "unknown",
-	"url": "https://www.gstatic.com/webp/gallery/4.webp",
-	"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp"
+	"url": "https://github.com/goxler7/neonWalls/raw/master/3.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/3.jpg"
 },
 {
-	"name": "Wallpaper 1",
+	"name": "Wallpaper 4",
 	"author": "unknown",
-	"url": "https://www.gstatic.com/webp/gallery/4.webp",
-	"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp"
+	"url": "https://github.com/goxler7/neonWalls/raw/master/4.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/4.jpg"
 },
 {
-	"name": "Wallpaper 1",
+	"name": "Wallpaper 5",
 	"author": "unknown",
-	"url": "https://www.gstatic.com/webp/gallery/4.webp",
-	"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp"
+	"url": "https://github.com/goxler7/neonWalls/raw/master/5.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/5.jpg"
 },
 {
-	"name": "Wallpaper 1",
+	"name": "Wallpaper 6",
 	"author": "unknown",
-	"url": "https://www.gstatic.com/webp/gallery/4.webp",
-	"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp"
+	"url": "https://github.com/goxler7/neonWalls/raw/master/6.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/6.jpg"
 },
 {
-	"name": "Wallpaper 1",
+	"name": "Wallpaper 7",
 	"author": "unknown",
-	"url": "https://www.gstatic.com/webp/gallery/4.webp",
-	"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp"
+	"url": "https://github.com/goxler7/neonWalls/raw/master/7.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/7.jpg"
+},
+{
+	"name": "Wallpaper 8",
+	"author": "unknown",
+	"url": "https://github.com/goxler7/neonWalls/raw/master/8.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/8.jpg"
+},
+{
+	"name": "Wallpaper 9",
+	"author": "unknown",
+	"url": "https://github.com/goxler7/neonWalls/raw/master/9.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/9.jpg"
+},
+{
+	"name": "Wallpaper 10",
+	"author": "unknown",
+	"url": "https://github.com/goxler7/neonWalls/raw/master/10.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/10.jpg"
+},
+{
+	"name": "Wallpaper 11",
+	"author": "unknown",
+	"url": "https://github.com/goxler7/neonWalls/raw/master/11.jpg",
+	"thumbnail": "https://github.com/goxler7/neonWalls/raw/master/11.jpg"
 }
 ]
